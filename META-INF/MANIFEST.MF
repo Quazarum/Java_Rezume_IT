@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: d:\Projects\GitHub\Java_Rezume_IT\src\ru\quazar\gui\Rezume
+ _IT.java
+
